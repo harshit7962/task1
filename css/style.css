@@ -1,0 +1,92 @@
+.navbar {
+  border: solid 20px;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+.nav-link {
+  margin: auto 20px;
+}
+
+.collapse {
+  padding-left: 30px;
+}
+
+.offers {
+  text-align: center;
+  background-color: #1a1c20;
+  padding: 10px;
+}
+
+.offers-title {
+  text-align: center;
+  background-color: grey;
+  color: white;
+  margin: 10px auto;
+  width: 98%;
+}
+
+.offer-img {
+  padding: 10%;
+  width: 80%;
+}
+
+.mob-img {
+  padding-bottom:45px;
+}
+.offer-section {
+  border: solid #1a1c20 10px;
+  color: white;
+  border-radius: 5%;
+}
+
+.offers-row {
+  color: grey;
+  margin: 5%;
+}
+
+#brands {
+  background-color: #1a1c20;
+}
+
+.brands-row {
+  text-align: center;
+}
+
+.brands-img {
+  margin: 50px auto 10px;
+}
+
+.brands-text {
+  color: #fff;
+}
+
+.categories-section {
+  border: solid #1a1c20 10px;
+  color: black;
+  border-radius: 5%;
+}
+
+.bake-img {
+  margin-bottom: 54px;
+}
+
+.food-img {
+  margin-bottom: 10px;
+}
+
+.dish-img {
+  margin-bottom: 4px;
+}
+
+.footer {
+  text-align: center;
+  background-color: grey;
+}
+
+.footer-text {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #fff;
+}
